@@ -11,29 +11,29 @@
 - 📊 Data analysis & visualization enthusiast  
 - 🧪 Working on iris-based medical diagnosis using deep learning  
 - 🤝 Love building applications & real-world AI solutions  
-- 📫 Contact me: [vigneshdark07@gmail.com](mailto:vigneshdark07@gmail.com)
+- 📫 Contact me: <a href="mailto:vigneshdark07@gmail.com" target="_blank">vigneshdark07@gmail.com</a>
 
 ---
 
 ### 🚀 Projects Showcase
 
-🔬 [**Iris Diabetes Detection using CNN**](https://github.com/vignshh7/Iris-Diabetes-Detection)  
+🔬 <a href="https://github.com/vignshh7/Iris-Diabetes-Detection" target="_blank"><strong>Iris Diabetes Detection using CNN</strong></a>  
 > Deep learning + image processing for non-invasive medical diagnosis
 
-📈 [**Advanced Billing System**](https://github.com/vignshh7/BillingSystem)  
+📈 <a href="https://github.com/vignshh7/BillingSystem" target="_blank"><strong>Advanced Billing System</strong></a>  
 > Inventory, billing, and analytics with React & Node  
-🔗 [Live Demo](https://vignshh7.github.io/BillingSystem/)
+🔗 <a href="https://vignshh7.github.io/BillingSystem/" target="_blank">Live Demo</a>
 
-🏠 [**Roofing Company Website**](https://github.com/vignshh7/Frontend-RoofingCompany)  
+🏠 <a href="https://github.com/vignshh7/Frontend-RoofingCompany" target="_blank"><strong>Roofing Company Website</strong></a>  
 > Frontend static business website  
-🔗 [Live Demo](https://vignshh7.github.io/Frontend-RoofingCompany/)
+🔗 <a href="https://vignshh7.github.io/Frontend-RoofingCompany/" target="_blank">Live Demo</a>
 
 ---
 
 ### 🌐 Portfolio
 
 Explore my latest portfolio site with clean design and live previews:  
-🔗 [**Portfolio-Website**](https://vignshh7.github.io/Portfolio-Website/)
+🔗 <a href="https://vignshh7.github.io/Portfolio-Website/" target="_blank"><strong>Portfolio-Website</strong></a>
 
 ---
 
@@ -77,11 +77,11 @@ Explore my latest portfolio site with clean design and live previews:
 ### 📫 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/vignshh">
+  <a href="https://linkedin.com/in/vignshh" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="mailto:vigneshdark07@gmail.com">
+  <a href="mailto:vigneshdark07@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
