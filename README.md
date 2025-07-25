@@ -10,8 +10,7 @@
 
 - 📊 Data analysis & visualization enthusiast  
 - 🧪 Working on iris-based medical diagnosis using deep learning  
-- 💻 Full-stack web developer with React & Node.js  
-- 🤝 Love building healthcare & real-world AI solutions  
+- 🤝 Love building applications & real-world AI solutions  
 - 📫 Contact me: [vigneshdark07@gmail.com](mailto:vigneshdark07@gmail.com)
 
 ---
@@ -34,14 +33,7 @@
 ### 🌐 Portfolio
 
 Explore my latest portfolio site with clean design and live previews:  
-🔗 [**vignshh7.github.io/Portfolio-Website**](https://vignshh7.github.io/Portfolio-Website/)
-
-<p align="center">
-  <a href="https://vignshh7.github.io/Portfolio-Website/">
-    🔗 [Portfolio]
-  </a>
-</p>
-
+🔗 [**Portfolio-Website**](https://vignshh7.github.io/Portfolio-Website/)
 
 ---
 
@@ -82,26 +74,19 @@ Explore my latest portfolio site with clean design and live previews:
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vignshh7&show_icons=true&theme=tokyonight" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vignshh7&theme=tokyonight" width="45%" />
-</p>
-
----
-
 ### 📫 Let's Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/vignshh">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  &nbsp;
   <a href="mailto:vigneshdark07@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  &nbsp;
   <a href="https://github.com/vignshh7">
-    <img src="https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
