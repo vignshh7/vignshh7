@@ -21,7 +21,7 @@
 > Deep learning + image processing for non-invasive medical diagnosis
 
 📈 <a href="https://github.com/vignshh7/BillingSystem" target="_blank"><strong>Advanced Billing System</strong></a>  
-> Inventory, billing, and analytics with React & Node  
+> Inventory, billing, and analytics.  
 🔗 <a href="https://vignshh7.github.io/BillingSystem/" target="_blank">Live Demo</a>
 
 🏠 <a href="https://github.com/vignshh7/Frontend-RoofingCompany" target="_blank"><strong>Roofing Company Website</strong></a>  
