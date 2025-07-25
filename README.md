@@ -9,7 +9,7 @@
 
 - 🔬 Currently working on **medical image processing** using deep learning — focused on **iris-based diabetes detection**.
 - 🌱 I enjoy building smart, data-driven applications using modern web and AI technologies.
-- 🤝 I love collaborating on real-world problems, especially those related to **healthcare AI** and **web development**.
+- 🤝 I love collaborating on real-world problems, especially those related to **DS and ML** and **web development**.
 - 📫 Reach me at: [vigneshdark07@gmail.com](mailto:vigneshdark07@gmail.com)
 
 ---
