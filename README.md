@@ -38,11 +38,10 @@ Explore my latest portfolio site with clean design and live previews:
 
 <p align="center">
   <a href="https://vignshh7.github.io/Portfolio-Website/">
-    <img src="https://raw.githubusercontent.com/vignshh7/Portfolio-Website/main/preview.png" alt="Portfolio Preview" width="600"/>
+    🔗 [Portfolio]
   </a>
 </p>
 
-> *(Upload a `preview.png` screenshot to your portfolio repo for this to show)*
 
 ---
 
