@@ -1,5 +1,4 @@
 <h1 align="center">Hi there 👋, I'm Vignesh Venkatesan</h1>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&vCenter=true&width=1000&lines=Data+Science+%7C+Web+Dev+%7C+ML+Enthusiast" alt="Typing SVG" />
 </p>
@@ -7,7 +6,6 @@
 ---
 
 ### 🔥 About Me
-
 - 📊 Data analysis & visualization enthusiast  
 - 🧪 Working on iris-based medical diagnosis using deep learning  
 - 🤝 Love building applications & real-world AI solutions  
@@ -24,6 +22,10 @@
 > Inventory, billing, and analytics.  
 🔗 <a href="https://vignshh7.github.io/BillingSystem/" target="_blank">Live Demo</a>
 
+🏫 <a href="https://github.com/vignshh7/CollegePortalWebsite" target="_blank"><strong>College Portal Website</strong></a>  
+> Multi-role portal with student dashboard, attendance tracking & faculty chat system  
+🔗 <a href="https://vignshh7.github.io/CollegePortalWebsite/" target="_blank">Live Demo</a>
+
 🏠 <a href="https://github.com/vignshh7/Frontend-RoofingCompany" target="_blank"><strong>Roofing Company Website</strong></a>  
 > Frontend static business website  
 🔗 <a href="https://vignshh7.github.io/Frontend-RoofingCompany/" target="_blank">Live Demo</a>
@@ -31,7 +33,6 @@
 ---
 
 ### 🌐 Portfolio
-
 Explore my latest portfolio site with clean design and live previews:  
 🔗 <a href="https://vignshh7.github.io/Portfolio-Website/" target="_blank"><strong>Portfolio-Website</strong></a>
 
@@ -59,13 +60,9 @@ Explore my latest portfolio site with clean design and live previews:
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
 
-
-
-
 ---
 
 ### 📫 Let's Connect
-
 <p align="center">
   <a href="https://linkedin.com/in/vignshh" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -79,4 +76,4 @@ Explore my latest portfolio site with clean design and live previews:
 
 ---
 
-_Thanks for visiting! Let’s build something impactful together 🚀_
+*Thanks for visiting! Let's build something impactful together 🚀*
