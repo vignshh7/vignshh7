@@ -14,22 +14,22 @@
 
 ---
 
-### 🚀 Featured ML Projects
-
-🤖 <a href="https://github.com/vignshh7/DeepToxicDetector" target="_blank"><strong>DeepToxicDetector - Toxic Comment Classifier</strong></a>  
-> **Deep Learning NLP** | Multi-label toxicity detection using BiLSTM & GloVe embeddings  
-> 🎯 **F1-Score: 0.89** | 6 toxicity categories | Trained on Jigsaw dataset  
-> 🔧 **Tech**: TensorFlow, Keras, LSTM, Word2Vec, Python
-
-⚙️ <a href="https://github.com/vignshh7/Fault-Rate-Detection" target="_blank"><strong>Fault Rate Detection with Noisy Data</strong></a>  
-> **Industrial ML** | Device fault detection with limited & noisy sensor data  
-> 🎯 **Accuracy: 99%** | Robust to sensor noise | Only 100 training samples  
-> 🔧 **Tech**: Scikit-learn, XGBoost, Gaussian Noise Simulation, IoT Analytics
+### 🚀 Featured ML and DS Projects
 
 🔬 <a href="https://github.com/vignshh7/Iris-Diabetes-Detection" target="_blank"><strong>Iris Diabetes Detection using CNN</strong></a>  
 > **Computer Vision + Medical AI** | Non-invasive diagnosis through iris image analysis  
 > 🎯 Deep learning + image processing for healthcare applications  
 > 🔧 **Tech**: CNN, OpenCV, TensorFlow, Medical Imaging
+
+🤖 <a href="https://github.com/vignshh7/DeepToxicDetector" target="_blank"><strong>DeepToxicDetector - Toxic Comment Classifier</strong></a>  
+> **Deep Learning NLP** | Multi-label toxicity detection using BiLSTM & GloVe embeddings  
+> 🔧 **Tech**: TensorFlow, Keras, LSTM, Word2Vec, Python
+
+⚙️ <a href="https://github.com/vignshh7/Fault-Rate-Detection" target="_blank"><strong>Fault Rate Detection with Noisy Data</strong></a>  
+> **Industrial ML** | Device fault detection with limited & noisy sensor data  
+> 🔧 **Tech**: Scikit-learn, XGBoost, Gaussian Noise Simulation, IoT Analytics
+
+
 
 ---
 
@@ -104,15 +104,6 @@ Explore my latest portfolio site with clean design and live project previews:
 
 ---
 
-### 🏆 Achievements & Highlights
-
-- 🤖 **Advanced NLP**: Built production-ready toxic comment classifier with 89% F1-score
-- ⚙️ **Industrial AI**: Developed robust fault detection system for noisy IoT sensor data  
-- 🔬 **Medical AI**: Pioneering non-invasive diabetes detection through iris analysis
-- 🌐 **Full-Stack**: End-to-end web applications with modern tech stack
-- 📊 **Data Science**: Expertise in handling small datasets and noisy real-world data
-
----
 
 ### 📫 Let's Connect
 
@@ -132,8 +123,6 @@ Explore my latest portfolio site with clean design and live project previews:
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vignshh7&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</p>
+
 
 *Thanks for visiting! Let's build something impactful together 🚀*
