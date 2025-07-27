@@ -21,7 +21,7 @@
 > 🎯 Deep learning + image processing for healthcare applications  
 > 🔧 **Tech**: CNN, OpenCV, TensorFlow, Medical Imaging
 
-🤖 <a href="[https://github.com/vignshh7/DeepToxicDetector](https://github.com/vignshh7/Toxic-Comment-Classifier)" target="_blank"><strong>DeepToxicDetector - Toxic Comment Classifier</strong></a>  
+🤖 <a href="https://github.com/vignshh7/Toxic-Comment-Classifier" target="_blank"><strong>DeepToxicDetector - Toxic Comment Classifier</strong></a>  
 🤖 <a href="" target="_blank"><strong>DeepToxicDetector - Toxic Comment Classifier</strong></a>  
 > **Deep Learning NLP** | Multi-label toxicity detection using BiLSTM & GloVe embeddings  
 > 🔧 **Tech**: TensorFlow, Keras, LSTM, Word2Vec, Python
