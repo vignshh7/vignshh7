@@ -1,108 +1,74 @@
-<h1 align="center">Hi there 👋, I'm Vignesh Venkatesan</h1>
+<h2 align="center">Hi, I'm Vignesh Venkatesan 👋</h2>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&vCenter=true&width=1000&lines=Data+Science+%7C+Web+Dev+%7C+ML+Enthusiast;Deep+Learning+%7C+NLP+%7C+Computer+Vision;Building+AI+Solutions+for+Real+World+Problems" alt="Typing SVG" />
+  Data Science • Machine Learning • Full-Stack Development
 </p>
 
 ---
 
-### 🔥 About Me
-- 📊 Data analysis & visualization enthusiast  
-- 🧪 Working on iris-based medical diagnosis using deep learning  
-- 🤖 Passionate about NLP, Computer Vision & Industrial AI applications
-- 🤝 Love building applications & real-world AI solutions  
-- 📫 Contact me: <a href="mailto:vigneshdark07@gmail.com" target="_blank">vigneshdark07@gmail.com</a>
+## 👨‍💻 About Me
+
+I'm a Computer Science (Data Science) student who enjoys working on real-world problems through Machine Learning, Deep Learning, and Web Development.  
+
+
+📬 **Email:** vigneshdark07@gmail.com  
+🔗 **LinkedIn:** https://linkedin.com/in/vignshh
 
 ---
 
-### 🚀 Featured ML and DS Projects
+## 🧠 Selected Projects
 
-🔬 <a href="https://github.com/vignshh7/Iris-Diabetes-Detection" target="_blank"><strong>Iris Diabetes Detection using CNN</strong></a>  
-> **Computer Vision + Medical AI** | Non-invasive diagnosis through iris image analysis  
-> 🎯 Deep learning + image processing for healthcare applications  
-> 🔧 **Tech**: CNN, OpenCV, TensorFlow, Medical Imaging
-
-🤖 <a href="https://github.com/vignshh7/Toxic-Comment-Classifier" target="_blank"><strong>DeepToxicDetector - Toxic Comment Classifier</strong></a>    
-> **Deep Learning NLP** | Multi-label toxicity detection using BiLSTM & GloVe embeddings  
-> 🔧 **Tech**: TensorFlow, Keras, LSTM, Word2Vec, Python
-
-⚙️ <a href="https://github.com/vignshh7/Fault-Rate-Detection" target="_blank"><strong>Fault Rate Detection with Noisy Data</strong></a>  
-> **Industrial ML** | Device fault detection with limited & noisy sensor data  
-> 🔧 **Tech**: Scikit-learn, XGBoost, Gaussian Noise Simulation, IoT Analytics
-
-
+### **Iris Diabetes Detection (CNN)**
+Non-invasive diabetes prediction using iris images.  
+**Tech:** TensorFlow, OpenCV, Image Processing  
+🔗 https://github.com/vignshh7/Iris-Diabetes-Detection
 
 ---
 
-### 🌐 Web Development Projects
-
-📈 <a href="https://github.com/vignshh7/BillingSystem" target="_blank"><strong>Advanced Billing System</strong></a>  
-> Full-stack inventory, billing, and analytics dashboard  
-> 🔗 <a href="https://vignshh7.github.io/BillingSystem/" target="_blank">Live Demo</a>
-
-🏫 <a href="https://github.com/vignshh7/CollegePortalWebsite" target="_blank"><strong>College Portal Website</strong></a>  
-> Multi-role portal with student dashboard, attendance tracking & faculty chat system  
-> 🔗 <a href="https://vignshh7.github.io/CollegePortalWebsite/" target="_blank">Live Demo</a>
-
-🏠 <a href="https://github.com/vignshh7/Frontend-RoofingCompany" target="_blank"><strong>Roofing Company Website</strong></a>  
-> Responsive business website with modern UI/UX  
-> 🔗 <a href="https://vignshh7.github.io/Frontend-RoofingCompany/" target="_blank">Live Demo</a>
+### **DeepToxicDetector – Toxic Comment Classifier**
+Multi-label toxicity detection using BiLSTM and GloVe embeddings.  
+**Tech:** Keras, NLP, Python  
+🔗 https://github.com/vignshh7/Toxic-Comment-Classifier
 
 ---
 
-### 🌐 Portfolio
-Explore my latest portfolio site with clean design and live project previews:  
-🔗 <a href="https://vignshh7.github.io/Portfolio-Website/" target="_blank"><strong>Portfolio-Website</strong></a>
+### **Fault Rate Detection (Noisy Sensor Data)**
+Predicting device faults from limited and noisy IoT sensor data.  
+**Tech:** Scikit-learn, XGBoost, Noise Simulation  
+🔗 https://github.com/vignshh7/Fault-Rate-Detection
 
 ---
 
-### 🛠️ Tech Toolbox
+## 🌐 Web Projects
 
-**Languages**  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white)
+- **Advanced Billing System**  
+  Full-stack billing and analytics dashboard.  
+  🔗 https://github.com/vignshh7/BillingSystem
 
-**Machine Learning & AI**  
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white)
-![XGBoost](https://img.shields.io/badge/-XGBoost-1976D2?logo=xgboost&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white)
+- **College Portal Website**  
+  Multi-role portal with dashboards and messaging features.  
+  🔗 https://github.com/vignshh7/CollegePortalWebsite
 
-**Data Science & Analytics**  
-![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
-![Scikit--learn](https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?logo=matplotlib&logoColor=white)
-
-**Web Development**  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-
-
+- **Roofing Company Website**  
+  Responsive modern frontend for a business use-case.  
+  🔗 https://github.com/vignshh7/Frontend-RoofingCompany
 
 ---
 
-### 📫 Let's Connect
+## 🛠 Skills
 
-<p align="center">
-  <a href="https://linkedin.com/in/vignshh" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="mailto:vigneshdark07@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://vignshh7.github.io/Portfolio-Website/" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" />
-  </a>
-</p>
+**Languages:** Python, JavaScript, C++, SQL  
+**ML/DL:** TensorFlow, PyTorch, Keras, Scikit-learn, OpenCV  
+**Data Tools:** Pandas, NumPy, Matplotlib  
+**Web:** React, HTML, CSS
 
 ---
 
+## 📁 Portfolio
 
+If you'd like to see everything in one place:  
+🔗 **Portfolio:** https://vignshh7.github.io/Portfolio-Website/
 
-*Thanks for visiting! Let's build something impactful together 🚀*
+---
+
+Thanks for stopping by!
