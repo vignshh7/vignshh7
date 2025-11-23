@@ -34,19 +34,6 @@ Non-invasive diabetes prediction using iris image analysis powered by CNN archit
 [![View Project](https://img.shields.io/badge/View-Project-blue?style=flat-square&logo=github)](https://github.com/vignshh7/Iris-Diabetes-Detection)
 
 </td>
-<td width="50%">
-
-#### **DeepToxicDetector**
-Multi-label toxicity classification system using BiLSTM and GloVe embeddings for enhanced NLP processing.
-
-**Tech Stack:** Keras, NLP, Python
-
-[![View Project](https://img.shields.io/badge/View-Project-blue?style=flat-square&logo=github)](https://github.com/vignshh7/Toxic-Comment-Classifier)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
 
 #### **Fault Rate Detection**
 Predictive maintenance system for IoT devices handling noisy and limited sensor data.
