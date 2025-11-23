@@ -1,6 +1,6 @@
 <div align="center">
 
-# Vignesh Venkatesan
+# <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header&text=Vignesh%20Venkatesan&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
 ### Data Science • Machine Learning • Full-Stack Development
 
