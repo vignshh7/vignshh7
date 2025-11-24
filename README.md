@@ -47,38 +47,7 @@ Predictive maintenance system for IoT devices handling noisy and limited sensor 
 </tr>
 </table>
 
-### 🌐 Web Development
 
-<table>
-<tr>
-<td width="33%">
-
-#### **Advanced Billing System**
-Full-stack billing platform with analytics dashboard and reporting features.
-
-[![View Project](https://img.shields.io/badge/View-Project-blue?style=flat-square&logo=github)](https://github.com/vignshh7/BillingSystem)
-
-</td>
-<td width="33%">
-
-#### **College Portal Website**
-Comprehensive multi-role portal with dashboards and real-time messaging.
-
-[![View Project](https://img.shields.io/badge/View-Project-blue?style=flat-square&logo=github)](https://github.com/vignshh7/CollegePortalWebsite)
-
-</td>
-<td width="33%">
-
-#### **Roofing Company Website**
-Modern, responsive business website with sleek UI/UX design.
-
-[![View Project](https://img.shields.io/badge/View-Project-blue?style=flat-square&logo=github)](https://github.com/vignshh7/Frontend-RoofingCompany)
-
-</td>
-</tr>
-</table>
-
----
 
 ## 🛠️ Technical Skills
 
