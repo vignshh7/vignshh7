@@ -34,16 +34,6 @@ Non-invasive diabetes prediction using iris image analysis powered by CNN archit
 [![View Project](https://img.shields.io/badge/View-Project-blue?style=flat-square&logo=github)](https://github.com/vignshh7/Iris-Diabetes-Detection)
 
 </td>
-<td width="50%">
-
-#### **Fault Rate Detection**
-Predictive maintenance system for IoT devices handling noisy and limited sensor data.
-
-**Tech Stack:** Scikit-learn, XGBoost, Noise Simulation
-
-[![View Project](https://img.shields.io/badge/View-Project-blue?style=flat-square&logo=github)](https://github.com/vignshh7/Fault-Rate-Detection)
-
-</td>
 </tr>
 </table>
 
