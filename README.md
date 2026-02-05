@@ -1,65 +1,59 @@
 <div align="center">
 
-# <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header&text=Vignesh%20Venkatesan&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6"/>
 
-### Computer Science • Data Science • Machine Learning • Full-Stack Development
+# Vignesh Venkatesan
 
-<a href="mailto:vigneshdark07@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail"/>
-</a>
-<a href="https://linkedin.com/in/vignshh">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-<a href="https://vigneshvenkatesan.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-View-00C7B7?style=for-the-badge&logo=vercel"/>
-</a>
+Computer Science (Data Science) • Software Engineering • Machine Learning
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6"/>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About
 
-I am a **Computer Science (Data Science) undergraduate** with a strong interest in **Machine Learning, Deep Learning, and Full-Stack Development**. I focus on building data-driven solutions, developing scalable software systems, and applying analytical techniques to solve real-world problems. I am particularly interested in opportunities that combine engineering fundamentals with applied data science.
-
----
-
-## 🛠️ Technical Skills
-
-<div align="center">
-
-| Category | Technologies |
-|--------|-------------|
-| **Programming Languages** | Python, JavaScript, C++, SQL |
-| **Machine Learning / Deep Learning** | TensorFlow, PyTorch, Keras, Scikit-learn, OpenCV |
-| **Data Science** | Pandas, NumPy, Matplotlib |
-| **Web Development** | React, HTML5, CSS3 |
-| **Tools & Platforms** | Git, GitHub, Linux |
-
-</div>
+Computer Science (Data Science) undergraduate with interests in **software engineering**, **machine learning**, and **full-stack development**.  
+I focus on building reliable, scalable systems and applying data-driven techniques to solve real-world problems.
 
 ---
 
-<div align="center">
+## Skills
 
-## 📬 Contact
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-<p style="font-size:15px;">
-Interested in collaborating or discussing innovative projects? Let’s connect.
-</p>
+### Machine Learning / Data Science
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
-<a href="mailto:vigneshdark07@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail"/>
-</a>
-<a href="https://linkedin.com/in/vignshh">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-<a href="https://vigneshvenkatesan.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-View-00C7B7?style=for-the-badge&logo=vercel"/>
-</a>
+### Web & Tools
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
 
-<sub>Thank you for visiting my profile.</sub>
+## Contact
 
-</div>
+Interested in collaborating or discussing innovative projects. Let’s connect.
+
+![Email](https://img.shields.io/badge/Email-vigneshdark07%40gmail.com-blue?style=flat-square&logo=gmail)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-vignshh-0077B5?style=flat-square&logo=linkedin)
+![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=flat-square&logo=vercel)
+
+- Email: **vigneshdark07@gmail.com**  
+- LinkedIn: https://linkedin.com/in/vignshh  
+- Portfolio: https://vigneshvenkatesan.vercel.app
