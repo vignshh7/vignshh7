@@ -49,10 +49,6 @@ I focus on building reliable, scalable systems and applying data-driven techniqu
 
 Interested in collaborating or discussing innovative projects. Let’s connect.
 
-![Email](https://img.shields.io/badge/Email-vigneshdark07%40gmail.com-blue?style=flat-square&logo=gmail)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-vignshh-0077B5?style=flat-square&logo=linkedin)
-![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=flat-square&logo=vercel)
-
 - Email: **vigneshdark07@gmail.com**  
 - LinkedIn: https://linkedin.com/in/vignshh  
 - Portfolio: https://vigneshvenkatesan.vercel.app
