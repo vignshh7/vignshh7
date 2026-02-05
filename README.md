@@ -4,7 +4,6 @@
 
 # Vignesh Venkatesan
 
-Computer Science (Data Science) • Software Engineering • Machine Learning
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6"/>
 
