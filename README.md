@@ -45,7 +45,6 @@ I focus on building reliable, scalable systems and applying data-driven techniqu
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=vignshh7)](https://git.io/streak-stats)
 
 ## Contact
 
